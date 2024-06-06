@@ -2,7 +2,7 @@
 
 #Disciplina Banco de Dados#
 
-#Professor: Sebastião Rogério#
+#Professor: Sebastião Rogério da Silva Neto#
 
 Alunos - Claudiano Barbosa Silva - 202303926847
 
