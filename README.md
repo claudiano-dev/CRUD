@@ -1,32 +1,15 @@
-# Instruções de desenvolvimento
+#Projeto em CRUD em Banco de Dados#
 
-## Pré-requisitos	
-- [Bun](https://bun.sh/)
-- [Git](https://git-scm.com/)
-- [Docker](https://www.docker.com/)
+#Disciplina Banco de Dados#
 
-## Instalação
+#Professor: Sebastião Rogério#
 
-### Clone o repositório
-```bash
-git clone https://github.com/vinicivs-rocha/db-crud-challenge.git
-```
+Alunos - Claudiano Barbosa Silva - 202303926847
 
-### Instale as dependências
-```bash
-cd db-crud-challenge
-bun install
-```
+Mateus Feliciano da Silva - 202304058067
 
-### Inicie o banco de dados
-1. Configure o arquivo `.env` com as variáveis de ambiente necessárias;
-2. Crie um arqivo ``docker-compose.yml`` que orquestre um banco de dados PostgreSQL, na sua última versão (conforme suportado pelas imagens disponibilizadas no [DockerHub](https://hub.docker.com/_/postgres)).
-3. Execute o comando `docker compose up -d` para iniciar o banco de dados.
-4. Criar as [tabelas necessárias para a aplicação](./assets/tables.png).
+Micael Sousa Barros - 202308423312
 
-## Inicie o servidor de desenvolvimento
-```bash
-bun dev
-```
 
-**Abra http://localhost:3000/ com o navegador para testar a aplicação.**
+
+       
